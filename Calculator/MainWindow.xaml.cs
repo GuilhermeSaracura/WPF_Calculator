@@ -26,7 +26,6 @@ namespace Calculator
             InitializeComponent();
 
             AcButton.Click += AcButton_Click;
-            NegativeButton.Click += NegativeButton_Click;
             PercentButton.Click += PercentButton_Click;
             EqualButton.Click += EqualButton_Click;
         }
