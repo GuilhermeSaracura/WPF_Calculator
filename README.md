@@ -1,3 +1,3 @@
 # WPF_Calculator
 
-Exercício realizado duratne o curso Windows Presentation Foundation Masterclass.
+Exercício realizado durante o curso Windows Presentation Foundation Masterclass.
